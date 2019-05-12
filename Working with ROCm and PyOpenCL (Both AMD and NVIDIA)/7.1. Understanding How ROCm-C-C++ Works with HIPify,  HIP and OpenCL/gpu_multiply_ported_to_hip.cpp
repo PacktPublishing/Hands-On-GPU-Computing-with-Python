@@ -79,8 +79,9 @@ int main(void) {
 	// Verifying all values to be 288.0
   	// fabs(q[i]-288) (absolute value) should be 0
 	double maxError = 0.0;
-	for (int i = 0; i < N-1; ++i)
-    	maxError = fmax(maxError, fabs(q[i]-288.0));
+	for (int i = 0; i < N-1; ++i){
+    		maxError = fmax(maxError, fabs(q[i]-288.0));
+	}
   	std::cout << "\nMax error: " << maxError << std::endl;
 
 	// Clean CPU memory allocations

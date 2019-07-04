@@ -40,8 +40,8 @@ The code will look like the following:
 **Following is what you need for this book:**
 Data Scientist, Machine Learning enthusiasts and professionals who wants to get started with GPU computation and perform the complex tasks with low-latency. Intermediate knowledge of Python programming is assumed.
 
-With the following software and hardware list you can run all code files present in the book (Chapter 1-11).
-### Software and Hardware List
+With the following software list you can run all code files present in the book (Chapter 1-11).
+### Software List
 | Chapter | Software required | OS required |
 | -------- | ------------------------------------ | ----------------------------------- |
 | 2 - 11 | PyCharm Community Edition, PyCharm Educational Edition, PyCharm for Anaconda Community Edition, PyCharm Professional Edition, PyCharm for Anaconda Professional Edition, PyDev, Jupyter Notebook, Jupyter Lab, Eric, CUDA, ROCm, Anaconda, CuPy, Numba, Google Colaboratory, Tensorflow, PyTorch,  DeepChem | Linux (preferably Ubuntu) |

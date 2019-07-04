@@ -44,7 +44,7 @@ With the following software and hardware list you can run all code files present
 ### Software and Hardware List
 | Chapter | Software required | OS required |
 | -------- | ------------------------------------ | ----------------------------------- |
-| 2 - 11 | PyCharm Community Edition, PyCharm Educational Edition, PyCharm for Anaconda Community Edition, PyCharm Professional Edition, PyCharm for Anaconda Professional Edition, PyDev, Jupyter Notebook, Jupyter Lab, Eric, CUDA, ROCm, Anaconda, CuPy, Numba, Google Colaboratory, Tensorflow, PyTorch,  DeepChem | Windows, Mac OS X, and Linux (Any) |
+| 2 - 11 | PyCharm Community Edition, PyCharm Educational Edition, PyCharm for Anaconda Community Edition, PyCharm Professional Edition, PyCharm for Anaconda Professional Edition, PyDev, Jupyter Notebook, Jupyter Lab, Eric, CUDA, ROCm, Anaconda, CuPy, Numba, Google Colaboratory, Tensorflow, PyTorch,  DeepChem | Linux (preferably Ubuntu) |
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://www.packtpub.com/sites/default/files/downloads/9781789341072_ColorImages.pdf).
 
